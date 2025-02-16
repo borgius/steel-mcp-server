@@ -311,7 +311,7 @@ Common issues and solutions:
 
 5. Prompting claude the right way can go a long way in improving performance and avoiding silly mistakes it may produce.
 
-6. Leverage the session viewer to analyse where
+6. Leverage the session viewer to analyse where your model may be getting stopped out.
 
 7. After ~15-20 browser actions claude starts to slow down as it's context window gets filled but with images. It shouldn't be horrible but we've noticed some latency here, especially with the Claude Desktop client lagging behind.
 
